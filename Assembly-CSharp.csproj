@@ -68,6 +68,7 @@
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\GoalZone.cs" />
      <Compile Include="Assets\Scripts\LookAtTarget.cs" />
+     <Compile Include="Assets\Scripts\MCSAnimController.cs" />
      <Compile Include="Assets\Scripts\PlayerControllerBall.cs" />
      <Compile Include="Assets\Scripts\Player_ClickToMove.cs" />
      <Compile Include="Assets\Scripts\Player_ControllerMove.cs" />
